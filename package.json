@@ -2,7 +2,7 @@
   "name": "movie-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Prozorog.github.io/movie-project",
+  "homepage": "https://prozorog.github.io/movie-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-page -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
